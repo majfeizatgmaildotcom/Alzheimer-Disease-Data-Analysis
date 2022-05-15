@@ -1,3 +1,5 @@
+<img src="images/dementia_s6_healthy_brain_severe_ad.jpg.jpg">
+
 # Alzheimer-Disease-Data-Analysis
 From Majid Feiz, Provided statistical analysis and hypothesis testing for various gene expressions for patients developing Alzheimer's disease.
 
