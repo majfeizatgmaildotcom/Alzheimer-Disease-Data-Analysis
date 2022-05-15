@@ -4,9 +4,9 @@
 From Majid Feiz, Provided statistical analysis and hypothesis testing for various gene expressions for patients developing Alzheimer's disease.
 **Project Status: Completed**
 <br>
-<a href="https://github.com/majfeizatgmaildotcom/Alzheimer-Disease-Data-Analysis/blob/a7bb3f15205f67d340722b9bb6ef9e0850e198c5/Alzheimer%20Disease_Part1.ipynb">Dashboard Python Viewer Part I </a> \
-<a href="https://github.com/majfeizatgmaildotcom/Alzheimer-Disease-Data-Analysis/blob/a7bb3f15205f67d340722b9bb6ef9e0850e198c5/Alzheimer%20Disease%20Part2.ipynb">Dashboard Python Viewer Part II </a>\
-<a href="https://github.com/majfeizatgmaildotcom/Alzheimer-Disease-Data-Analysis/blob/a7bb3f15205f67d340722b9bb6ef9e0850e198c5/Alzheimer%20Disease%20Part3.ipynb">Dashboard Python Viewer Part III </a>
+<a href="https://github.com/majfeizatgmaildotcom/Alzheimer-Disease-Data-Analysis/blob/a7bb3f15205f67d340722b9bb6ef9e0850e198c5/Alzheimer%20Disease_Part1.ipynb">Jupyter Notebook Viewer Part I </a> \
+<a href="https://github.com/majfeizatgmaildotcom/Alzheimer-Disease-Data-Analysis/blob/a7bb3f15205f67d340722b9bb6ef9e0850e198c5/Alzheimer%20Disease%20Part2.ipynb">Jupyter Notebook Viewer Part II </a>\
+<a href="https://github.com/majfeizatgmaildotcom/Alzheimer-Disease-Data-Analysis/blob/a7bb3f15205f67d340722b9bb6ef9e0850e198c5/Alzheimer%20Disease%20Part3.ipynb">Jupyter Notebook Viewer Part III </a>
 
 
 ## Project Objective
