@@ -12,7 +12,7 @@ From Majid Feiz, Provided statistical analysis and hypothesis testing for variou
 
 
 ## Project Objective
-This project investigated the statistical distribution and correlation of various gene expression levels for the Dementia group and the Non-Dementia group for both males and females. Various t-Test analyses were performed for both males and females to investigate if the mean values of gene expression between the Dementia group and Non-Dementia group among female (and male) patients are different
+ This project explored examining the statistical distribution and relationships between different gene expression levels across Dementia and Non-Dementia groups, distinguishing between male and female subjects. Through conducting multiple t-Test analyses for both genders, the research aimed to determine whether there are significant differences in the average gene expression levels between the Dementia and Non-Dementia groups among both female and male patients.
 
 ## Dataset
 <a href= "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44768"> Dataset link</a>
